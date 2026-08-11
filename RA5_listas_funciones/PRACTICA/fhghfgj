@@ -1,0 +1,17 @@
+first_input = input("Ingresa el primer número: ")
+second_input = input("Ingresa el segundo número: ")
+print(second_input + first_input)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
